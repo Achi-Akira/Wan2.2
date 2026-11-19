@@ -1,0 +1,9 @@
+{
+  "name": "wan2-2",
+  "version": "1.0.0",
+  "description": "Generate videos locally with Wan2.2: text-to-video, image-to-video, the 5B text-image-to-video model for 24 GB GPUs, speech-to-video and Wan-Animate character animation and replacement.",
+  "homepage": "https://wan.video",
+  "repository": "https://github.com/Achi-Akira/Wan2.2",
+  "license": "Apache-2.0",
+  "keywords": ["video-generation", "text-to-video", "image-to-video", "speech-to-video", "wan", "diffusion"]
+}
