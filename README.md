@@ -1,0 +1,8 @@
+# wan2-2-plugin.zip
+
+The upload-ready Claude plugin for this repository. Download it:
+
+https://github.com/Achi-Akira/Wan2.2/raw/plugin-zip/wan2-2-plugin.zip
+
+Upload that file to Claude's plugin uploader as it is. It's kept on this branch so the
+repository's own branches never contain a zip (Claude rejects plugins with nested zips).
